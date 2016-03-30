@@ -22,10 +22,10 @@ Classification", Masoud Faraki, Mehrtash Harandi, and Fatih Porikli, 40th
 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Brisbane, Australia, April 19-24, 2015.
 
 @inproceedings{faraki2015approximate,
-  title={APPROXIMATE INFINITE-DIMENSIONAL REGION COVARIANCE DESCRIPTORS FOR IMAGE CLASSIFICATION}, 
-   author={Faraki, Masoud and Harandi, Mehrtash T and Porikli, Fatih}, 
-  booktitle={Acoustics, Speech and Signal Processing (ICASSP), 2015 IEEE International Conference on}, 
-  pages={1364--1368}, 
-  year={2015}, 
-    organization={IEEE} 
+title={APPROXIMATE INFINITE-DIMENSIONAL REGION COVARIANCE DESCRIPTORS FOR IMAGE CLASSIFICATION},
+author={Faraki, Masoud and Harandi, Mehrtash T and Porikli, Fatih},
+booktitle={Acoustics, Speech and Signal Processing (ICASSP), 2015 IEEE International Conference on},
+pages={1364--1368},
+year={2015},
+organization={IEEE}
 }
