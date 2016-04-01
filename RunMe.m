@@ -8,12 +8,15 @@
 %   organization={IEEE}
 % }
 
+% Due to the utilized randomization the results differ each time you run.
+
 clear; clc;
 load('./DataSet_Color_Derivatives.mat');
 load('./TrnTstInds');
 gamma = 1e-5;
 tmpNProj = 21;
 
+DataSet.RawSamples = double(DataSet.RawSamples);
 TrainSet.C = DataSet.C(:,:,allTrnInds);
 TestSet.C = DataSet.C(:,:,allTstInds);
 TrainSet.y = DataSet.y(allTrnInds);
